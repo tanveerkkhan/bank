@@ -14,7 +14,7 @@ out.print(login_msg);
  %>  
  <br/>  
 <form  method="post">  
-Enter Email:<input type="text" name="email"/><br/><br/>  
-Password:<input type="password" name="password"/><br/><br/>  
+Enter Email Address:<input type="text" name="email"/><br/><br/>  
+Enter Password:<input type="password" name="password"/><br/><br/>  
 <input type="submit" value="login"/>"  
 </form>
